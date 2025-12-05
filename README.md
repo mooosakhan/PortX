@@ -21,9 +21,10 @@
 
 1. Download the latest release from the [GitHub Releases](https://github.com/mooosakhan/portx/releases).  
 2. Make the file executable (if needed):
+
    ```bash
    chmod +x portx-1.0.0.AppImage
-````
+   ````
 
 3. Run the app:
 
