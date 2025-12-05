@@ -15,6 +15,12 @@
 
 ---
 
+## Screenshots
+
+![Main Window](assets/screenshot1.png)
+
+---
+
 ## Installation
 
 ### From pre-built files (Linux)
