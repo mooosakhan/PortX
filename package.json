@@ -1,15 +1,15 @@
 {
   "name": "portx",
   "version": "1.0.0",
-  "description": "",
+  "description": "PortX - A simple Linux port manager",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "electron . --disable-gpu --no-sandbox",
     "build": "electron-builder"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["port", "manager", "network"],
+  "author": "Moosa Niko",
   "license": "ISC",
   "devDependencies": {
     "electron": "^39.2.6",
