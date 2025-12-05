@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PortX - Port Manager</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>PortX</h1>
+        <p class="subtitle">Find and kill processes running on ports</p>
+
+        <div class="controls">
+            <input id="portInput" type="number" placeholder="Enter port number (e.g., 3000)" />
+            <button id="scanBtn" class="scan-btn">Scan Port</button>
+            <button id="scanAllBtn" class="scan-all-btn">Scan All Active Ports</button>
+        </div>
+
+        <div id="stats" class="stats" style="display: none;"></div>
+        
+        <div id="result" class="result"></div>
+        
+        <footer class="footer">
+            <p>© 2025 PortX. Made with ❤️ by <a href="https://moosa.me" target="_blank">Moosa</a></p>
+        </footer>
+    </div>
+
+    <script src="../renderer.js"></script>
+</body>
+</html>
