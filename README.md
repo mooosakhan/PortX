@@ -17,7 +17,7 @@
 
 ## Screenshots
 
-![Main Window](assets/screenshot1.png)
+![Main Window](assets/Screenshot1.png)
 
 ---
 
